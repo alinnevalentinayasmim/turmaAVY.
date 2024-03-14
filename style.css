@@ -9,3 +9,6 @@ header{
 .mapa{
     width: 30%;
 }
+.intro{
+    display: flex;
+}
