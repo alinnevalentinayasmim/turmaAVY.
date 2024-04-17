@@ -24,12 +24,15 @@ ul{
 
     a{
         color: brown;
-        text-decoration: ; 44% 44% 44%
+        text-decoration:none ;
     }
 
     .equipe{
-        display: block;grid: ;
+        display: grid;
         grid-template-columns: 33% 33% 33%;
         text-align: center;
         background-color: antiquewhite;
+    }
+    .canada{ 
+        display: flex;
     }
