@@ -47,3 +47,11 @@ ul{
         margin: 0 20px;
         justify-content: flex-end;
     }
+
+    .esq{
+        margin-left: 20px;
+    }
+
+    .dir{
+        margin-right: 20px;
+    }
