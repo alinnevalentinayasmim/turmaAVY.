@@ -35,5 +35,10 @@ ul{
     }
     .primeiro{ 
         display: flex;
-        
+        align-items: center;
+
+    }
+    .portugal{
+        display: flex;
+        text-align: center;
     }
