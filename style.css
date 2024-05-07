@@ -43,4 +43,5 @@ ul{
         display: flex;
         text-align: center;
         margin: 0 20px;
+        justify-content: flex-end;
     }
